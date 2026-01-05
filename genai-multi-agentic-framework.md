@@ -5,7 +5,7 @@ title: Multi-Agent Framework Architecture
 
 # Case Study: Decomposing a Monolith into a Multi-Agent Ecosystem
 
-**Role:** AI Architect / Lead Engineer
+**Role:** AI Architect / Senior ML Engineer
 **Tech Stack:** Python, LangChain (StructuredTools), LangGraph, FastAPI, Microservices Architecture
 
 ---
