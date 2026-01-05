@@ -3,9 +3,6 @@ layout: default
 title: Home
 ---
 
-# Jake Richardson
-**Senior ML Engineer | ML Systems Architect**
-
 I am a machine learning engineer specializing in high-scale distributed systems, AI infrastructure, and performance optimization. I bridge the gap between "it works in a notebook" and "it works at enterprise scale."
 
 ## 🛠 Skills
