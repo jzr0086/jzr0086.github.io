@@ -17,7 +17,7 @@ I am a machine learning engineer specializing in high-scale distributed systems,
 
 ---
 
-## � Experience
+## 💼 Experience
 
 ### [GenAI Optimization Case Study](genai-optimization.md)
 *Reduced LLM inference costs by 61% and improved P95 latency by 34% via semantic caching.*
